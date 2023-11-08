@@ -1,4 +1,5 @@
 # My Reflection Journal - [28/10/2023]
+
 #week1 Nasim
 
 Challenges Faced:
@@ -9,7 +10,6 @@ What Went Well and Lessons Learned:
 Our team work wenn well with scrum activity
 
 Key Learning:
-
 
 Online Resources:
 Youtube videos are usefull to me because i learn most efficenlty by listening an doing reading is something hard for me.
@@ -30,4 +30,4 @@ Looking back on this week's experiences, I'm proud of my efforts in the [Web Cou
 Next Steps:
 Newx week i will be home from my trip and will have somewhat to catch up so i will be working extra hard next week looking forward to it.
 
-Week [Next Week Number]: [31/10/2023]
+Week [2]: [Date]

@@ -1,29 +1,42 @@
-Challenges Faced:
-[Detail challenges encountered during the week, such as coding difficulties, time management issues, or project-related obstacles.]
+**Challenges Faced:**
 
-What Went Well and Lessons Learned:
-[Highlight positive outcomes from the week's activities, successful coding tasks, and any valuable lessons you learned from your experiences.]
+This week i was little bit off due to my trip. I missed few classes but i managed to rewatch them untill beginning of week3.
+When i rewacthed videos i feel like i understand everything and i did the labs.
 
-Key Learning:
-[Summarize the new concepts, techniques, or strategies you learned during the week that have contributed to your understanding and growth.]
+**What Went Well and Lessons Learned:**
 
-Online Resources:
-[List and briefly describe online resources you found useful during the week, whether they were tutorials, articles, forums, or videos.]
+everything went well and now im back on track i understand everytopic untill now
 
-Coping Strategies:
-Academic Progress:
+**Key Learning:**
+
+I learned that jsx is just html writtend with jacascript teh syntax is little bit weird. I learned how to reacte an component and use it within app.js to build a web page it was really nice i like it react ´seems like very handy framework.
+I learned how to use props in components. Finally i learned how to create na API using express dependency with node
+
+**Online Resources:**
+
+all the homework videos were usefull!
+
+**Coping Strategies:**
+
+**Academic Progress:**
 [Evaluate your academic progress for the week, discussing completed assignments, grades received, and areas where you've improved.]
 
-Soft Skills Development:
-[Reflect on how your soft skills, such as communication, collaboration, and problem-solving, contributed to your progress during the week.]
+I would say 4/5 beacuase i didnt have much time to deep learn subjects but overal i understand everything
 
-Project Management:
-[Discuss how agile project management principles influenced your approach to project work and collaboration this week.]
+**Soft Skills Development:**
 
-Final Thoughts:
-Looking back on this week's experiences, I'm proud of my efforts in the [Web Course] and [Project Course]. Every challenge presented an opportunity to learn and grow, and I'm excited to continue building my skills and knowledge.
+I like doing team work with my group im very communicative and always happy to work together
 
-Next Steps:
-[Outline your goals and intentions for the upcoming week, including specific areas you want to focus on.]
+**Project Management:**
 
-Week [Next Week Number]: [Date]
+As i said i just came back from trip at the end of week2 o i just joined one group sessin but eitherway it went really well in my opinion.
+
+**Final Thoughts:**
+
+Looking froward to learn more about web development
+
+**Next Steps:**
+
+My step forward is to keep up with the pace
+
+Week [3]: [Date]
