@@ -30,3 +30,9 @@ img {
 strong {
   font-weight: bold;
 }
+
+.Greetings {
+  border: #000 1px solid;
+  padding: 5px;
+  margin: 10px 0;
+}
