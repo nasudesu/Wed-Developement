@@ -5,6 +5,7 @@ import Navigation from "./components/Navigation";
 import Services from "./components/Services";
 import Tours from "./components/Tours";
 import "./app.css";
+import "./app1.css";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from "./components/Home";
 import NotFound from "./components/NotFound";
