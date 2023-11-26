@@ -1,5 +1,6 @@
 import Tour from "./Tour";
 import Title from "./Title";
+import AddTour from "./AddTour";
 import { useState, useEffect } from "react";
 
 function Tours() {
@@ -9,7 +10,7 @@ function Tours() {
     const fetchTours = async () => {
       const response = await fetch("http://localhost:4000/api/tours");
       const data = await response.json();
-
+      console.log(data);
       if (response.ok) {
         setToursData(data);
       }
@@ -27,6 +28,7 @@ function Tours() {
     <div>
       <section className="section" id="tours">
         <Title title="featured" span="tours" />
+        <AddTour />
         <div className="section-center featured-center">
           {toursData &&
             toursData.map((tour) => (

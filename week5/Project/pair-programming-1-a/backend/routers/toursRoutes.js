@@ -10,7 +10,7 @@ router.get("/", tourController.getTours);
 router.get("/:id", tourController.getTour);
 
 // Create a new tour
-router.post("/", checkRole("admin"), tourController.postTour);
+router.post("/", tourController.postTour);
 
 // Update a tour by ID
 router.put("/:id", checkRole("admin"), tourController.putTour);
