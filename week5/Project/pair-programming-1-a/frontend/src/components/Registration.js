@@ -6,8 +6,36 @@ const Registration = () => {
   const [confirmPassword, setConfirmPassword] = useState("");
   const [name, setName] = useState("");
 
-  const handleSubmit = (event) => {
-    console.log(event);
+  const handleSubmit = async (event) => {
+    event.preventDefault();
+    let user = {
+      username: name,
+      email: email,
+      password: password,
+      role: "admin",
+    };
+    try {
+      if (password !== confirmPassword) {
+        return alert("Passwords don't match");
+      }
+      const response = await fetch("http://localhost:4000/api/users", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(user),
+      });
+      console.log(JSON.stringify(user));
+      if (response.ok) {
+        return alert("User created successfully");
+      }
+    } catch (error) {
+      console.log(error);
+    }
+    setName("");
+    setEmail("");
+    setPassword("");
+    setConfirmPassword("");
   };
   return (
     <div className="login-page">
